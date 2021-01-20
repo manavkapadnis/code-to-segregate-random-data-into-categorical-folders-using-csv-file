@@ -1,0 +1,1 @@
+# code-to-segregate-random-data-into-categorical-folders-using-csv-file
